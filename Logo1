@@ -26,7 +26,7 @@ git clone https://github.com/celestiaorg/celestia-app.git
 cd celestia-
 git checkout v0.6.0
 make install
-cd $HOME
+$HOME
 -------------------------------------------------
 celestia-appd version
 
