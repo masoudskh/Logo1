@@ -20,7 +20,6 @@ source $HOME/.bash_profile
 go version
 
 --------------------------------------
- -rf celestia-app
 git clone https://github.com/celestiaorg/celestia-app.git
 cd celestia-
 t v0.6.0
